@@ -1,0 +1,5 @@
+Bonjour [ Prenom ],
+tu peux trouver ci-joint ma candidature type pour un poste de developpeur front-end.
+je suis ouvert à toutes sortes d'entreprise localisé sur l'île-de-france particulièrement,
+n'hésite pas à revenir vers moi si tu as besoin d'avantage d'information.
+Cordialement John.D

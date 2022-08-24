@@ -1,0 +1,46 @@
+[ Titre Nom ],
+
+J'ai le plaisir de vous adresser ma candidature pour le poste de d�veloppeur web en alternance.
+
+Fili�re :
+
+Mast�re 1 premi�re ann�e (D�veloppement web et mobile), �cole IPSSI (voir le programme).
+> /pdf/Programme-Mastere-Developpement-Web-Mobile-IPSSI.pdf
+
+Mes points forts :
+
+- 3 ann�es d'exp�rience professionnelle en tant qu'int�grateur web.
+- 2 ann�es d'exp�rience professionnelle en tant que graphiste free-lance.
+- Comp�tences en HTML5, CSS3, PHP 5, JQuery, Bootstrap et SQL.
+- S�rieux, organis�, dynamique et passionn�.
+
+Je saurais �tre un v�ritable atout pour votre �quipe.
+
+Les avantages du contrat de professionnalisation :
+
+- CDD de 12 mois avec une p�riode d'essai de 1 mois.
+- Ma r�mun�ration sera � hauteur de 100% du SMIC (ou Minimum Conventionnel).
+- Application de la r�duction Fillon sur les bas salaires (SMIC).
+- Ma formation sera prise en charge par votre OPCA.
+
+Mon rythme d'alternance au sein de l'IPSSI :
+
+3 semaines en entreprise / 1 semaine en formation.
+Je suis disponible : � partir de ao�t 2020.
+
+Je vous invite � me rencontrer dans les meilleurs d�lais en vue de vous pr�senter mes motivations.
+Vous pourrez alors juger de mes qualit�s humaines et techniques.
+
+
+> EN SAVOIR PLUS 	 
+http://site.fr/CV/index.php?type=professionnalisation&utm_source=[id_contact]&utm_medium=email/en%20savoir%20plus&utm_campaign=[volume]&bienvenue=true&contact=Bonne%20visite%20%3Cbr%3E%20[%20Titre%20Nom%20]
+ 
+> ME CONTACTER 	 
+http://site.fr/CV/index.php?type=professionnalisation&utm_source=[id_contact]&utm_medium=email/me%20contacter&utm_campaign=[volume]&bienvenue=true&contact=Bonne%20visite%20%3Cbr%3E%20[%20Titre%20Nom%20]
+
+> CV au format PDF
+/redirection/link_pdf_cv_redirection.php?utm_source=[id_contact]&utm_medium=email/pdf&utm_campaign=[volume]
+
+Dans cette attente,
+Cordialement,
+John Doe
